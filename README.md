@@ -1,16 +1,16 @@
 # Projeto de Escolha Plano em HTML e CSS
 
-Este projeto foi desenvolvido como parte de um curso online de HTML e CSS, com base em vídeoaulas. O objetivo principal era criar uma lista de contatos usando tecnologias web.
+Este projeto foi desenvolvido como parte de um curso online de HTML e CSS, com base em vídeoaulas. O objetivo principal era criar uma página utilizando cards para escolha de planos como essencial, premium e deluxe usando tecnologias web.
 
 ## Tecnologias Utilizadas
 
 - **HTML:** O projeto utiliza HTML para a estrutura da página, incluindo a marcação dos elementos e a organização dos conteúdos.
 
-- **CSS:** O estilo e o design da lista de contatos foram criados com CSS, e várias propriedades e recursos da linguagem foram explorados, como `opacity`, `gap`, e `flex-grow`, para criar uma experiência visual agradável.
+- **CSS:** O estilo e o design da lista de contatos foram criados com CSS, e várias propriedades e recursos da linguagem foram explorados, como `justify-content`, `gap`,`align-items` e `diplay`, para criar uma experiência visual agradável.
 
 ## Sobre o Projeto
 
-Este projeto tem como objetivo demonstrar a aplicação prática dos conceitos aprendidos durante o curso de HTML e CSS. Através do uso de recursos avançados do CSS, como os mencionados acima, foi possível criar uma lista de contatos elegante e funcional.
+Este projeto tem como objetivo demonstrar a aplicação prática dos conceitos aprendidos durante o curso de HTML e CSS. Através do uso de recursos avançados do CSS, como os mencionados acima, foi possível criar uma página demonstrando os cards elegante e funcional.
 
 ## Como Contribuir
 
@@ -28,4 +28,4 @@ Agradecemos por verificar o projeto e esperamos que ele seja útil para você!
 
 ## Acesse o Site
 
-Para acessar o meu site, [clique aqui](https://acleoxavier.github.io/ProjetoContatos/).
+Para acessar o meu site, [clique aqui]().
